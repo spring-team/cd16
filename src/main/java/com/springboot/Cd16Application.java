@@ -1,5 +1,7 @@
 // It’s only a thought, and a thought can be changed.
 
+// It’s only a thought, and a thought can be changed.
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
